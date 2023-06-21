@@ -1,7 +1,4 @@
 # Othello Game in Python
-
-![Othello Game Screenshot](screenshot.png)
-
 このリポジトリは、Pythonで作成されたオセロ（リバーシ）ゲームのコードです。GUI（グラフィカルユーザーインターフェース）を使用して、ユーザーが石を配置してゲームをプレイできます。
 
 ## 特徴
@@ -20,32 +17,28 @@
 
 1. このリポジトリをクローンまたはダウンロードします。
 
+```
 git clone https://github.com/yourusername/othello-python.git
-
-markdown
-Copy code
+```
 
 2. 必要なライブラリをインストールします。
 
+```
 pip install numpy
-
-markdown
-Copy code
+```
 
 ## 使用方法
 
 1. リポジトリのディレクトリに移動します。
 
+```
 cd othello-python
-
-markdown
-Copy code
+```
 
 2. スクリプトを実行してゲームをプレイします。
 
+```
 python othello.py
-
-shell
-Copy code
+```
 
 ゲームウィンドウが開き、オセロゲームをプレイできます。
